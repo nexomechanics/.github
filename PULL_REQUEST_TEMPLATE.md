@@ -10,5 +10,4 @@
 
 - [ ] No secrets or API keys committed
 - [ ] Tested locally
-- [ ] No debug code left in
 - [ ] Security checklist reviewed (if web/API project)
